@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Binny V A</h1>
 <h3 align="center">A philosopher programmer who specializes in backend development and stoicism.</h3>
 
-- 🔭 I’m currently working on [Gatsby Garden](https://github.com/binnyva/gatsby-garden)
-
-- 🌱 I’m currently learning **Vue 3, Gatsby**
+- 🔭 I’m currently working on [MindOS](https://mindos.in/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/binnyva/](https://github.com/binnyva/)
 
-- 📝 I regulary write articles on [http://blog.binnyva.com](http://blog.binnyva.com)
+- 📝 I regulary write articles on [https://notes.binnyva.com](Digital Zen Garden)
 
 - 💬 Ask me about **PHP, Laravel, Javascript**
 
