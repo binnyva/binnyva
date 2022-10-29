@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on [MindOS](https://mindos.in/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/binnyva/](https://github.com/binnyva/)
-
-- 📝 I regulary write articles on [https://notes.binnyva.com](Digital Zen Garden)
+- 📝 I publish my notes on [Digital Zen Garden](https://notes.binnyva.com)
 
 - 💬 Ask me about **PHP, Laravel, Javascript**
 
